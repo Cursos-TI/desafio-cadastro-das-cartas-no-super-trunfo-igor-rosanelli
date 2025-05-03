@@ -74,7 +74,6 @@ int main(){
     printf("Estado: %c\n", estado2);
     printf("Código: %s\n", codigo2);
     printf("Nome da Cidade: %s", cidade2); // fgets já inclui \n
-    printf("População: %d\n", populacao1);
     printf("População: %d\n", populacao2);
     printf("Área: %.2f km²\n", area2);
     printf("PIB: %.2f bilhões de reais\n", pib2);
